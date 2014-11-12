@@ -1,0 +1,54 @@
+.circular-game.num12 ul > li > span {
+  /*
+  transform: rotate(-60deg) skew(-30deg);
+  */
+}
+
+.circular-game.num12 ul > li:nth-child(1) {
+  transform: rotate(30deg) skew(60deg);
+  background-color: blue;
+}
+.circular-game.num12 ul > li:nth-child(2) {
+  transform: rotate(60deg) skew(60deg);
+  background-color: yellow;
+}
+.circular-game.num12 ul > li:nth-child(3) {
+  transform: rotate(90deg) skew(60deg);
+  background-color: purple;
+}
+.circular-game.num12 ul > li:nth-child(4) {
+  transform: rotate(120deg) skew(60deg);
+  background-color: orange;
+}
+.circular-game.num12 ul > li:nth-child(5) {
+  transform: rotate(150deg) skew(60deg);
+  background-color: pink;
+}
+.circular-game.num12 ul > li:nth-child(6) {
+  transform: rotate(180deg) skew(60deg);
+  background-color: aqua;
+}
+.circular-game.num12 ul > li:nth-child(7) {
+  transform: rotate(210deg) skew(60deg);
+  background-color: brown;
+}
+.circular-game.num12 ul > li:nth-child(8) {
+  transform: rotate(240deg) skew(60deg);
+  background-color: gray;
+}
+.circular-game.num12 ul > li:nth-child(9) {
+  transform: rotate(270deg) skew(60deg);
+  background-color: black;
+}
+.circular-game.num12 ul > li:nth-child(10) {
+  transform: rotate(300deg) skew(60deg);
+  background-color: red;
+}
+.circular-game.num12 ul > li:nth-child(11) {
+  transform: rotate(330deg) skew(60deg);
+  background-color: lightblue;
+}
+.circular-game.num12 ul > li:nth-child(12) {
+  transform: rotate(360deg) skew(60deg);
+  background-color: magenta;
+}

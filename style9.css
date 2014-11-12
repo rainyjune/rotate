@@ -1,0 +1,42 @@
+.circular-game.num9 ul > li > span {
+  /*
+  transform: rotate(-60deg) skew(-30deg);
+  */
+}
+
+.circular-game.num9 ul > li:nth-child(1) {
+  transform: rotate(40deg) skew(50deg);
+  background-color: blue;
+}
+.circular-game.num9 ul > li:nth-child(2) {
+  transform: rotate(80deg) skew(50deg);
+  background-color: yellow;
+}
+.circular-game.num9 ul > li:nth-child(3) {
+  transform: rotate(120deg) skew(50deg);
+  background-color: purple;
+}
+.circular-game.num9 ul > li:nth-child(4) {
+  transform: rotate(160deg) skew(50deg);
+  background-color: orange;
+}
+.circular-game.num9 ul > li:nth-child(5) {
+  transform: rotate(200deg) skew(50deg);
+  background-color: pink;
+}
+.circular-game.num9 ul > li:nth-child(6) {
+  transform: rotate(240deg) skew(50deg);
+  background-color: aqua;
+}
+.circular-game.num9 ul > li:nth-child(7) {
+  transform: rotate(280deg) skew(50deg);
+  background-color: brown;
+}
+.circular-game.num9 ul > li:nth-child(8) {
+  transform: rotate(320deg) skew(50deg);
+  background-color: gray;
+}
+.circular-game.num9 ul > li:nth-child(9) {
+  transform: rotate(360deg) skew(50deg);
+  background-color: black;
+}

@@ -1,0 +1,26 @@
+.circular-game.num6 ul > li > span {
+  /*
+  transform: rotate(-60deg) skew(-30deg);
+  */
+}
+
+.circular-game.num5 ul > li:nth-child(1) {
+  transform: rotate(72deg) skew(18deg);
+  background-color: blue;
+}
+.circular-game.num5 ul > li:nth-child(2) {
+  transform: rotate(144deg) skew(18deg);
+  background-color: yellow;
+}
+.circular-game.num5 ul > li:nth-child(3) {
+  transform: rotate(216deg) skew(18deg);
+  background-color: purple;
+}
+.circular-game.num5 ul > li:nth-child(4) {
+  transform: rotate(288deg) skew(18deg);
+  background-color: orange;
+}
+.circular-game.num5 ul > li:nth-child(5) {
+  transform: rotate(360deg) skew(18deg);
+  background-color: pink;
+}

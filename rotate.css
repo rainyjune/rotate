@@ -1,0 +1,27 @@
+div.circular-game {
+  position: relative;
+  
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.circular-game ul > li {
+  width: 125px;
+  height: 125px;
+  transform-origin: 100% 100%;
+  position: absolute;
+  top: 0px;
+  line-height: 125px;
+}
+
+.circular-game ul > li > span {
+  display: block;
+  line-height: 125px;
+  text-align: center;
+  
+}
