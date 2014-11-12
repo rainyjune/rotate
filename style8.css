@@ -6,33 +6,25 @@
 
 .circular-game.num8 ul > li:nth-child(1) {
   transform: rotate(45deg) skew(45deg);
-  background-color: blue;
 }
 .circular-game.num8 ul > li:nth-child(2) {
   transform: rotate(90deg) skew(45deg);
-  background-color: yellow;
 }
 .circular-game.num8 ul > li:nth-child(3) {
   transform: rotate(135deg) skew(45deg);
-  background-color: purple;
 }
 .circular-game.num8 ul > li:nth-child(4) {
   transform: rotate(180deg) skew(45deg);
-  background-color: orange;
 }
 .circular-game.num8 ul > li:nth-child(5) {
   transform: rotate(225deg) skew(45deg);
-  background-color: pink;
 }
 .circular-game.num8 ul > li:nth-child(6) {
   transform: rotate(270deg) skew(45deg);
-  background-color: aqua;
 }
 .circular-game.num8 ul > li:nth-child(7) {
   transform: rotate(315deg) skew(45deg);
-  background-color: brown;
 }
 .circular-game.num8 ul > li:nth-child(8) {
   transform: rotate(360deg) skew(45deg);
-  background-color: gray;
 }

@@ -6,29 +6,22 @@
 
 .circular-game.num7 ul > li:nth-child(1) {
   transform: rotate(51.42857142857143deg) skew(38.57142857142857deg);
-  background-color: blue;
 }
 .circular-game.num7 ul > li:nth-child(2) {
   transform: rotate(102.85714285714286deg) skew(38.57142857142857deg);
-  background-color: yellow;
 }
 .circular-game.num7 ul > li:nth-child(3) {
   transform: rotate(154.28571428571428deg) skew(38.57142857142857deg);
-  background-color: purple;
 }
 .circular-game.num7 ul > li:nth-child(4) {
   transform: rotate(205.71428571428572deg) skew(38.57142857142857deg);
-  background-color: orange;
 }
 .circular-game.num7 ul > li:nth-child(5) {
   transform: rotate(257.14285714285717deg) skew(38.57142857142857deg);
-  background-color: pink;
 }
 .circular-game.num7 ul > li:nth-child(6) {
   transform: rotate(308.57142857142856deg) skew(38.57142857142857deg);
-  background-color: aqua;
 }
 .circular-game.num7 ul > li:nth-child(7) {
   transform: rotate(360deg) skew(38.57142857142857deg);
-  background-color: brown;
 }

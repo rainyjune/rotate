@@ -13,7 +13,13 @@ div.circular-game {
 .circular-game ul > li {
   width: 125px;
   height: 125px;
+  
+  -moz-transform-origin: 100% 100%;
+  -o-transform-origin: 100% 100%;
+  -webkit-transform-origin: 100% 100%;
+  -ms-transform-origin: 100% 100%; 
   transform-origin: 100% 100%;
+  
   position: absolute;
   top: 0px;
   line-height: 125px;
@@ -24,4 +30,41 @@ div.circular-game {
   line-height: 125px;
   text-align: center;
   
+}
+
+.circular-game ul > li:nth-child(1) {
+  background-color: blue;
+}
+.circular-game ul > li:nth-child(2) {
+  background-color: yellow;
+}
+.circular-game ul > li:nth-child(3) {
+  background-color: purple;
+}
+.circular-game ul > li:nth-child(4) {
+  background-color: orange;
+}
+.circular-game ul > li:nth-child(5) {
+  background-color: pink;
+}
+.circular-game ul > li:nth-child(6) {
+  background-color: aqua;
+}
+.circular-game ul > li:nth-child(7) {
+  background-color: brown;
+}
+.circular-game ul > li:nth-child(8) {
+  background-color: gray;
+}
+.circular-game ul > li:nth-child(9) {
+  background-color: black;
+}
+.circular-game ul > li:nth-child(10) {
+  background-color: red;
+}
+.circular-game ul > li:nth-child(11) {
+  background-color: lightblue;
+}
+.circular-game ul > li:nth-child(12) {
+  background-color: magenta;
 }

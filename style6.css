@@ -4,25 +4,19 @@
 
 .circular-game.num6 ul > li:nth-child(1) {
   transform: rotate(60deg) skew(30deg);
-  background-color: blue;
 }
 .circular-game.num6 ul > li:nth-child(2) {
   transform: rotate(120deg) skew(30deg);
-  background-color: yellow;
 }
 .circular-game.num6 ul > li:nth-child(3) {
   transform: rotate(180deg) skew(30deg);
-  background-color: purple;
 }
 .circular-game.num6 ul > li:nth-child(4) {
   transform: rotate(240deg) skew(30deg);
-  background-color: orange;
 }
 .circular-game.num6 ul > li:nth-child(5) {
   transform: rotate(300deg) skew(30deg);
-  background-color: pink;
 }
 .circular-game.num6 ul > li:nth-child(6) {
   transform: rotate(360deg) skew(30deg);
-  background-color: aqua;
 }
