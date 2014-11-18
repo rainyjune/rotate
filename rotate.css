@@ -68,3 +68,7 @@ div.circular-game {
 .circular-game ul > li:nth-child(12) {
   background-color: magenta;
 }
+
+.circular-game ul > li > span {
+  transform: rotate(-45deg);
+}

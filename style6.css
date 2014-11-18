@@ -1,5 +1,7 @@
 .circular-game.num6 ul > li > span {
-  transform: rotate(-60deg) skew(-30deg);
+  /*
+  transform: rotate(-45deg) skew(0deg);
+  */
 }
 
 .circular-game.num6 ul > li:nth-child(1) {
